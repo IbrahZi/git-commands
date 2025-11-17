@@ -31,3 +31,6 @@ Liste des commandes git
 ## git checkout
 - Permet de changer de branche
 - (checkout -b) permet de créer une branche et de se placer directement dessus
+
+## git pull
+- Permet de récupérer les modifications distantes
