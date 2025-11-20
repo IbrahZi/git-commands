@@ -40,15 +40,8 @@ Liste des commandes git
 - Les modifications de la branche mère sont placées en dessous des modifications de la branche courante
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche mère 
 
-## test de transfert 
-- Ceci est un test
-
-## test 2
-
-<<<<<<< HEAD
-=======
 ## git merge 
 - Permet de récupérer les données d'une branche fille et les fusionner à celle de la branche mère. 
 
 ## test 3
->>>>>>> feature/code-css
+
