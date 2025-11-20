@@ -40,6 +40,9 @@ Liste des commandes git
 - Les modifications de la branche mère sont placées en dessous des modifications de la branche courante
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche mère 
 
+## test de transfert 
+- Ceci est un test
+
 ## git reset 
 - Permet de supprimer un commit 
 - Permet de revenir à un commit défini par son identifiant
