@@ -47,3 +47,6 @@ Liste des commandes git
 
 ## git diff
 - Permet de comparer deux commits
+
+## git merge 
+- Permet de récupérer les données d'une branche fille et les fusionner à celle de la branche mère. 
