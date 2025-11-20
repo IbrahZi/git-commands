@@ -45,3 +45,10 @@ Liste des commandes git
 
 ## test 2
 
+<<<<<<< HEAD
+=======
+## git merge 
+- Permet de récupérer les données d'une branche fille et les fusionner à celle de la branche mère. 
+
+## test 3
+>>>>>>> feature/code-css
