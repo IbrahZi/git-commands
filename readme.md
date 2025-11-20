@@ -50,3 +50,5 @@ Liste des commandes git
 
 ## git merge 
 - Permet de récupérer les données d'une branche fille et les fusionner à celle de la branche mère. 
+
+## test 3
